@@ -1,0 +1,5 @@
+print("Яке твоє ім'я?")
+name = input()
+print("Скільки тобі років?")
+age = input()
+print("Привіт", name + ",тобі", age + ".")
